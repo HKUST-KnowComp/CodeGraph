@@ -2,4 +2,4 @@
 .DS_Store
 
 # Ignoring all files in the Latex tables folder
-CodeGraph/codegraph/latex_tables/*
+codegraph/latex_tables/*
