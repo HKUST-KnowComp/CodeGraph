@@ -1,5 +1,5 @@
 # macOS system files
 .DS_Store
 
-# Ignoring Latex tables folder
-CodeGraph/codegraph/latex_tables/
+# Ignoring all files in the Latex tables folder
+CodeGraph/codegraph/latex_tables/*
